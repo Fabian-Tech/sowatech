@@ -71,6 +71,7 @@ logo_footer = "images/sowatech2003.png"
 mobile = "+49 261 291850"
 quick_contact = false
 search = false
+social = []
 top_header = true
 [params.map]
 enable = true
@@ -117,15 +118,3 @@ preloader = ""
 enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
-[[params.social]]
-URL = "https://facebook.com/themefisher"
-icon = "fa-facebook"
-[[params.social]]
-URL = "https://twitter.com/themefisher"
-icon = "fa-twitter"
-[[params.social]]
-URL = "https://github.com/themefisher"
-icon = "fa-github"
-[[params.social]]
-URL = "https://instagram.com/themefisher"
-icon = "fa-instagram"
