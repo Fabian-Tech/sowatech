@@ -53,12 +53,14 @@ slider:
 banner_feature:
   enable: true
   feature_item:
-  - name: Business Solution
-    icon: fa-diamond
-    content: Lorem ipsum dolor sit amet constur adipelit sed.
-  - name: Market Research
-    icon: fa-bar-chart
-    content: Lorem ipsum dolor sit amet constur adipelit sed.
+  - name: Programmierung von Web-Applikationen
+    icon: fa-globe
+    content: Moderne Webanwendungen mit Angular2 und HTML5 - Backendlösungen mit Microsoft
+      Web API, ASP MVC, ASP.net - Portallösungen mit dem DotNetNuke (DNN) Redaktionssystem
+  - name: Programmierung von mobilen Applikationen
+    icon: fa-mobile
+    content: Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
+      Cordova - Hybride Entwicklung mit AngularJS und Ionic
   - name: Business Strategy
     icon: fa-lightbulb-o
     content: Lorem ipsum dolor sit amet constur adipelit sed.
