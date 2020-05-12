@@ -1,23 +1,26 @@
 ---
 slider:
-  enable: false
+  enable: true
   slider_item:
-  - subtitle: We are here to
-    title: Planning Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - subtitle: " Programmierung von"
+    title: Web-Applikationen
+    content: |-
+      Moderne Webanwendungen mit Angular2 und HTML5
+      Backendlösungen mit Microsoft Web API, ASP MVC, ASP.net
+      Portallösungen mit dem DotNetNuke (DNN) Redaktionssystem
     bg_image_webp: images/slider/banner-1.webp
     bg_image: images/slider/banner-1.jpg
     animation: fadeInUp
     button:
       enable: true
       label: more details
-      link: about
+      link: contact
       animation: zoomIn
-  - subtitle: We are here to
-    title: Planning Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - subtitle: " Programmierung von"
+    title: mobilen Applikationen
+    content: |-
+      Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit Cordova
+      Hybride Entwicklung mit AngularJS und Ionic
     bg_image_webp: images/slider/banner-2.webp
     bg_image: images/slider/banner-2.jpg
     animation: fadeInDown
@@ -26,10 +29,13 @@ slider:
       label: more details
       link: about
       animation: zoomIn
-  - subtitle: We are here to
-    title: Planning Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - subtitle: Programmierung von
+    title: Desktop-Applikationen
+    content: |2-
+
+      Programmierung von Desktop-Applikationen
+      Individuelle Softwareentwicklung mit Microsoft .net
+      Hybride Desktopanwendungen für Windows / Mac mit NodeJS
     bg_image_webp: images/slider/banner-3.webp
     bg_image: images/slider/banner-3.jpg
     animation: fadeInLeft
