@@ -1,6 +1,6 @@
 ---
 slider:
-  enable: true
+  enable: false
   slider_item:
   - subtitle: We are here to
     title: Planning Business
