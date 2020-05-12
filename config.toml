@@ -60,15 +60,15 @@ parent = "Pages"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Im Teichert 110A, 56076 Koblenz"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@bexer.com"
+email = "info@sowatech.de"
 google_analitycs_id = ""
 logo = "images/sowatech2003.png"
 logo_footer = "images/sowatech2003.png"
-mobile = "+211234565523"
+mobile = "+49 261 291850"
 quick_contact = false
 search = false
 top_header = true
