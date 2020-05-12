@@ -2,10 +2,11 @@
 slider:
   enable: true
   slider_item:
-  - subtitle: " Erstellung von Desktop-, Web- und Mobil-"
-    title: 'Applikationen  '
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - subtitle: 'PROGRAMMIERUNG VON '
+    title: WEB-APPLIKATIONEN
+    content: |-
+      Moderne Webanwendungen mit Angular2 und HTML5
+      Backendlösungen mit Microsoft Web API, ASP MVC, ASP.net - Portallösungen mit dem DotNetNuke (DNN) Redaktionssystem
     bg_image_webp: images/slider/banner-1.webp
     bg_image: images/slider/banner-1.jpg
     animation: fadeInUp
