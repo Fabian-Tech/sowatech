@@ -72,7 +72,7 @@ mobile = "+49 261 291850"
 quick_contact = false
 search = false
 social = []
-top_header = true
+top_header = false
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
