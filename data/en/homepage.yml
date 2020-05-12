@@ -2,8 +2,8 @@
 slider:
   enable: true
   slider_item:
-  - subtitle: " Erstellung von  "
-    title: 'Desktop-, Web- und Mobil-Applikationen  '
+  - subtitle: " Erstellung von Desktop-, Web- und Mobil-"
+    title: 'Applikationen  '
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     bg_image_webp: images/slider/banner-1.webp
