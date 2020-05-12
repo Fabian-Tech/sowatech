@@ -51,7 +51,7 @@ slider:
       link: about
       animation: zoomIn
 banner_feature:
-  enable: true
+  enable: false
   feature_item:
   - name: Business Solution
     icon: fa-diamond
