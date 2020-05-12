@@ -38,25 +38,9 @@ URL = "service"
 name = "Service"
 weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 8
-[[menu.main]]
-URL = "project"
-name = "Project"
-parent = "Pages"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
