@@ -80,7 +80,7 @@ about:
     label: more service
     link: service
 funfacts:
-  enable: true
+  enable: false
   funfacts_item:
   - name: project done
     count: "50"
@@ -95,7 +95,7 @@ funfacts:
     count: "500"
     icon: fa-smile-o
 feature:
-  enable: true
+  enable: false
   subtitle: Why Choose Us
   title: Why They Choose Bexar
   image_webp: images/feature/feature.webp
@@ -110,15 +110,15 @@ feature:
     icon: fa-code
     content: Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia.
 service:
-  enable: true
+  enable: false
   subtitle: Best Service
   title: Service We Provide
 team:
-  enable: true
+  enable: false
   subtitle: Our Team
   title: We Are Dynamic Team and <br> Business Agency
 project:
-  enable: true
+  enable: false
   subtitle: Case Study
   title: Bexar Case Studies
   button:
@@ -126,7 +126,7 @@ project:
     label: more projects
     link: project
 testimonial:
-  enable: true
+  enable: false
   subtitle: Testimonials
   title: What Clients Are Say?
   testimonial_item:
@@ -152,7 +152,7 @@ testimonial:
       exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
       irure dolor in reprehen.
 cta:
-  enable: true
+  enable: false
   title: Bexar give the smart solution for your business
   bg_image_webp: images/backgrounds/cta-lg.webp
   bg_image: images/backgrounds/cta-lg.jpg
@@ -161,6 +161,6 @@ cta:
     label: get a quote
     link: contact
 blog:
-  enable: true
+  enable: false
   subtitle: Latest News
   title: Learn From Bexar
