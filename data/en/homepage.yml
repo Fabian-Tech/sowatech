@@ -61,12 +61,10 @@ banner_feature:
     icon: fa-mobile
     content: Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
       Cordova - Hybride Entwicklung mit AngularJS und Ionic
-  - name: Business Strategy
-    icon: fa-lightbulb-o
-    content: Lorem ipsum dolor sit amet constur adipelit sed.
-  - name: Speed Optimization
-    icon: fa-dashboard
-    content: Lorem ipsum dolor sit amet constur adipelit sed.
+  - name: Programmierung von Desktop-Applikationen
+    icon: fa-desktop
+    content: Individuelle Softwareentwicklung mit Microsoft .net - Hybride Desktopanwendungen
+      für Windows / Mac mit NodeJS
 about:
   enable: false
   subtitle: About Us
