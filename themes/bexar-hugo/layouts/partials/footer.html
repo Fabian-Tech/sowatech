@@ -36,8 +36,8 @@
             <div class="col-6 mb-5">
               <h4 class="text-white mb-4">{{ i18n "contact_info"}}</h4>
               <ul class="list-unstyled">
-                <li class="text-light mb-3">{{ .Site.Params.mobile }}</li>
-                <li class="text-light mb-3">{{ .Site.Params.email }}</li>
+                <li class="text-light mb-3"><a class="text-white" href="tel:{{.Site.Params.mobile}}">{{ .Site.Params.mobile }}</a></li>
+                <li class="text-light mb-3"><a class="text-white" href="mailto:{{.Site.Params.email}}">{{ .Site.Params.email }}</a></li>
                 <li class="text-light mb-3">{{ .Site.Params.address }}</li>
               </ul>
             </div>

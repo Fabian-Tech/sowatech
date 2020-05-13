@@ -20,7 +20,7 @@
         <div class="bg-white box-shadow text-center p-5 px-md-2 px-lg-5">
           <i class="fa fa-phone text-primary icon-lg mb-4"></i>
           <h4 class="mb-4">{{ i18n "phone" }}</h4>
-          <p>{{ .Site.Params.mobile | markdownify }}</p>
+          <p><a href="tel:{{.Site.Params.mobile}}">{{ .Site.Params.mobile | markdownify }}</a></p>
         </div>
       </div>
       <div class="col-md-4 mb-4 mb-md-0">
