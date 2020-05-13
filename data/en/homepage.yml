@@ -130,31 +130,26 @@ project:
     label: more projects
     link: project
 testimonial:
-  enable: false
-  subtitle: Testimonials
-  title: What Clients Are Say?
+  enable: true
+  subtitle: Kundenmeinungen
+  title: Was sagen unsere Kunden?
   testimonial_item:
   - client_image: images/testimonial/client-1.jpg
-    name: Dominic Allen
-    designation: Designer
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
-      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
-      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
-      irure dolor in reprehen.
+    name: Kobra Nahverkehrsservice GmbH
+    designation: Auswertungstool für Fahrplandaten
+    content: Sehr gutes Preis-/Leistungsverhältnis.
   - client_image: images/testimonial/client-2.jpg
-    name: Alex Pitt
-    designation: Designer
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
-      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
-      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
-      irure dolor in reprehen.
+    name: Claudia Drecksträter
+    designation: dnn DotNetNuke
+    content: Super Service, Rasche und zuverlässige Bearbeitung! Sehr netter Kontakt!
+      Immer gern wieder.
   - client_image: images/testimonial/client-3.jpg
-    name: John Doe
-    designation: Designer
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
-      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
-      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
-      irure dolor in reprehen.
+    name: American Football Verband NRW
+    designation: American Football Verband NRW
+    content: Alle Anforderungen sind voll erfüllt, und teilweise sogar übertroffen
+      worden. Der verantwortliche Programmierer konnte sich schnell auf unser Fachfremdes
+      Problem einstellen. Wir werden den weiteren Ausbau der Software ebenfalls mit
+      Sowatech weiterführen.
 cta:
   enable: false
   title: Bexar give the smart solution for your business
