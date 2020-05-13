@@ -31,7 +31,7 @@ name = "Privacy Policy"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Über uns"
 weight = 2
 [[menu.main]]
 URL = "service"
@@ -102,5 +102,5 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
-icon = "fa-facebook"
 URL = "https://www.facebook.com/sowatech.de/"
+icon = "fa-facebook"
