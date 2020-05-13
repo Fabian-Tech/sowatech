@@ -1,10 +1,10 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://www.sowatech.de/"
 disableLanguages = ["fr"]
-disqusShortname = "bexer"
+disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
 theme = "bexar-hugo"
-title = "Bexar Hugo Template"
+title = "Individuelle Softwareentwicklung von Web, Mobil und Desktop-Applikationen"
 [Languages.en]
 contentDir = "content/english"
 copyright = "sowatech Softwaretechnik GmbH 2020"
