@@ -89,10 +89,10 @@ about:
 funfacts:
   enable: true
   funfacts_item:
-  - name: Projekte Abgeschossen
+  - name: Abgeschlossene Projekte
     count: "50"
     icon: fa-bullseye
-  - name: Jahre Erfarung
+  - name: jährige Erfahrung
     count: "20"
     icon: fa-calendar
   - name: Zufriedene Kunden
