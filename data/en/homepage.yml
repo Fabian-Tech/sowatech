@@ -61,16 +61,16 @@ banner_feature:
   feature_item:
   - name: Programmierung von Web-Applikationen
     icon: fa-globe
-    content: Moderne Webanwendungen mit Angular2 und HTML5 - Backendlösungen mit Microsoft
-      Web API, ASP MVC, ASP.net - Portallösungen mit dem DotNetNuke (DNN) Redaktionssystem
+    content: "Moderne Webanwendungen mit Angular2 und HTML5  \nBackendlösungen mit
+      Microsoft Web API, ASP MVC, ASP.net"
   - name: Programmierung von mobilen Applikationen
     icon: fa-mobile
-    content: Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
-      Cordova - Hybride Entwicklung mit AngularJS und Ionic
+    content: "Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
+      Cordova  \nHybride Entwicklung mit AngularJS und Ionic"
   - name: Programmierung von Desktop-Applikationen
     icon: fa-desktop
-    content: Individuelle Softwareentwicklung mit Microsoft .net - Hybride Desktopanwendungen
-      für Windows / Mac mit NodeJS
+    content: "Individuelle Softwareentwicklung mit Microsoft .net  \nHybride Desktopanwendungen
+      für Windows / Mac mit NodeJS"
 about:
   enable: true
   subtitle: Über uns
