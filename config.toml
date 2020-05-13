@@ -30,15 +30,15 @@ URL = "Datenschutz"
 name = "Datenschutz"
 weight = 2
 [[menu.main]]
-URL = "Über uns"
+URL = "über-uns"
 name = "Über uns"
 weight = 2
 [[menu.main]]
-URL = "Dienstleistungen"
+URL = "dienstleistungen"
 name = "Dienstleistungen"
 weight = 3
 [[menu.main]]
-URL = "Kontakt"
+URL = "kontakt"
 name = "Kontakt"
 weight = 7
 [outputs]
