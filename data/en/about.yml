@@ -21,7 +21,7 @@ philosophy:
     - Quality Services
     - Clients Satisfaction
 about:
-  enable: false
+  enable: true
 service:
   enable: false
 team:
