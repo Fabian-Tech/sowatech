@@ -134,7 +134,7 @@ testimonial:
   subtitle: Kundenmeinungen
   title: Was sagen unsere Kunden?
   testimonial_item:
-  - client_image: images/testimonial/client-1.jpg
+  - client_image: "/images/testimonial/kobra-logo-neu.jpg"
     name: Kobra Nahverkehrsservice GmbH
     designation: Auswertungstool für Fahrplandaten
     content: Sehr gutes Preis-/Leistungsverhältnis.
@@ -143,7 +143,7 @@ testimonial:
     designation: dnn DotNetNuke
     content: Super Service, Rasche und zuverlässige Bearbeitung! Sehr netter Kontakt!
       Immer gern wieder.
-  - client_image: images/testimonial/client-3.jpg
+  - client_image: "/images/testimonial/AFCVNRW.gif"
     name: American Football Verband NRW
     designation: Sportverwaltungssoftware
     content: Alle Anforderungen sind voll erfüllt, und teilweise sogar übertroffen
