@@ -1,65 +1,45 @@
+---
 - id: read_more
-  translation: Read More
-  
+  translation: Weiterlesen...
 - id: address
-  translation: Our Address
-
+  translation: Unsere Adresse
 - id: phone
-  translation: Phone Number
-
+  translation: Telefonnummer
 - id: email
-  translation: Message Us
-
+  translation: Email
 - id: contact_form
-  translation: Contact Form
-
+  translation: Kontaktformular
 - id: send
-  translation: send message
-
+  translation: Absenden
 - id: follow
-  translation: FOLLOW US ON
-
+  translation: Folgen Sie uns auf
 - id: services
-  translation: Services
-
+  translation: Dienstleistungen
 - id: contact_info
-  translation: Contact Info
-
+  translation: Kontaktinformationen
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
-
+  translation: Newsletter Anmeldung
 - id: subscribe
-  translation: Subscribe
-
+  translation: Anmelden
 - id: connect_with_us
-  translation: Connect With Us
-
+  translation: Social Media
 - id: call_now
-  translation: Call Now
-
+  translation: Rufen Sie uns an
 - id: search_placeholder
-  translation: Type & Hit Enter...
-
+  translation: Suche...
 - id: quick_contact
-  translation: Quick Contact
-
+  translation: Schneller Kontakt
 - id: latest_article
-  translation: Latest Article
-
+  translation: Neuester Artikel
 - id: category
-  translation: Category
-
+  translation: Kategorie
 - id: tags
   translation: Tags
-
 - id: all
-  translation: ALL
-
+  translation: Alle
 - id: client
-  translation: client
-
+  translation: Kunde
 - id: date
-  translation: date
-
+  translation: Datum
 - id: status
-  translation: status
+  translation: Status
