@@ -104,3 +104,5 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 URL = "https://www.facebook.com/sowatech.de/"
 icon = "fa-facebook"
+[params.contact]
+enable = false
