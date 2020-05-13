@@ -39,7 +39,7 @@ name = "Dienstleistungen"
 weight = 3
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 7
 [outputs]
 home = ["HTML", "RSS", "JSON"]
