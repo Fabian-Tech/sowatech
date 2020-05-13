@@ -69,8 +69,8 @@ banner_feature:
       Cordova  \nHybride Entwicklung mit AngularJS und Ionic"
   - name: Programmierung von Desktop-Applikationen
     icon: fa-desktop
-    content: Individuelle Softwareentwicklung mit Microsoft .net - Hybride Desktopanwendungen
-      für Windows / Mac mit NodeJS
+    content: "Individuelle Softwareentwicklung mit Microsoft .net  \nHybride Desktopanwendungen
+      für Windows / Mac mit NodeJS"
 about:
   enable: true
   subtitle: Über uns
