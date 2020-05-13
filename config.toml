@@ -55,7 +55,7 @@ logo_footer = "images/sowatech2003.png"
 mobile = "+49 261 291850"
 quick_contact = false
 search = false
-social = []
+social = ["https://www.facebook.com/sowatech.de/"]
 top_header = true
 [params.map]
 enable = true
