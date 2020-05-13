@@ -30,15 +30,15 @@ URL = "privacy-policy"
 name = "Privacy Policy"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "Über uns"
 name = "Über uns"
 weight = 2
 [[menu.main]]
-URL = "service"
+URL = "Dienstleistungen"
 name = "Dienstleistungen"
 weight = 3
 [[menu.main]]
-URL = "contact"
+URL = "Kontakt"
 name = "Kontakt"
 weight = 7
 [outputs]
