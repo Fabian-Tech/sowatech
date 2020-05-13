@@ -62,7 +62,7 @@ banner_feature:
   - name: Programmierung von Web-Applikationen
     icon: fa-globe
     content: Moderne Webanwendungen mit Angular2 und HTML5 - Backendlösungen mit Microsoft
-      Web API, ASP MVC, ASP.net - Portallösungen mit dem DotNetNuke (DNN) Redaktionssystem
+      Web API, ASP MVC, ASP.net
   - name: Programmierung von mobilen Applikationen
     icon: fa-mobile
     content: Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
