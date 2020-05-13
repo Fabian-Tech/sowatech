@@ -75,8 +75,10 @@ about:
   enable: true
   subtitle: Über uns
   title: Individuelle Softwareentwicklung
-  content: Unser Softwareentwicklungsbüro bietet Konzeption und Entwicklung individueller Software- und Datenbanklösungen für kaufmännische und technische Anwendungen.  
-    Wir erstellen webbasierte Applikationen, mobile Applikationen und Desktop Applikationen - zugeschnitten auf den Einsatzbedarf  unserer Kunden.
+  content: |-
+    Unser Softwareentwicklungsbüro bietet Konzeption und Entwicklung individueller Software- und Datenbanklösungen für kaufmännische und technische Anwendungen.
+
+    Wir erstellen webbasierte Applikationen, mobile Applikationen und Desktop Applikationen - zugeschnitten auf den Einsatzbedarf unserer Kunden.
   bg_image: images/backgrounds/about-us-bg.png
   image_webp: images/about/about-us.webp
   image: images/about/about-us.png

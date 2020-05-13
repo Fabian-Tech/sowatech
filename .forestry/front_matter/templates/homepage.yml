@@ -287,3 +287,5 @@ fields:
   - type: text
     name: title
     label: title
+pages:
+- data/en/homepage.yml
