@@ -72,12 +72,11 @@ banner_feature:
     content: Individuelle Softwareentwicklung mit Microsoft .net - Hybride Desktopanwendungen
       für Windows / Mac mit NodeJS
 about:
-  enable: false
-  subtitle: About Us
-  title: We Are Dynamic Team and Business Agency
-  content: Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia
-    deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit
-    voluptatem accusantium.
+  enable: true
+  subtitle: Über uns
+  title: Individuelle Softwareentwicklung
+  content: Unser Softwareentwicklungsbüro bietet Konzeption und Entwicklung individueller Software- und Datenbanklösungen für kaufmännische und technische Anwendungen.  
+    Wir erstellen webbasierte Applikationen, mobile Applikationen und Desktop Applikationen - zugeschnitten auf den Einsatzbedarf  unserer Kunden.
   bg_image: images/backgrounds/about-us-bg.png
   image_webp: images/about/about-us.webp
   image: images/about/about-us.png
