@@ -1,4 +1,4 @@
-baseURL = "https://www.sowatech.de/"
+baseURL = "https://sowatech.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
