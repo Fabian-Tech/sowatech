@@ -65,8 +65,8 @@ banner_feature:
       Microsoft Web API, ASP MVC, ASP.net"
   - name: Programmierung von mobilen Applikationen
     icon: fa-mobile
-    content: Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
-      Cordova - Hybride Entwicklung mit AngularJS und Ionic
+    content: "Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit
+      Cordova  \nHybride Entwicklung mit AngularJS und Ionic"
   - name: Programmierung von Desktop-Applikationen
     icon: fa-desktop
     content: Individuelle Softwareentwicklung mit Microsoft .net - Hybride Desktopanwendungen
