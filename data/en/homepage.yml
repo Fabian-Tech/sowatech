@@ -26,8 +26,8 @@ slider:
     animation: fadeInDown
     button:
       enable: true
-      label: more details
-      link: about
+      label: Kontaktieren Sie uns
+      link: kontakt
       animation: zoomIn
   - subtitle: Programmierung von
     title: Desktop-Applikationen
@@ -41,8 +41,8 @@ slider:
     animation: fadeInLeft
     button:
       enable: true
-      label: more details
-      link: about
+      label: Kontaktieren Sie uns
+      link: kontakt
       animation: zoomIn
   - subtitle: We are here to
     title: Planning Business
