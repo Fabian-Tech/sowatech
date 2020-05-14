@@ -13,8 +13,8 @@ slider:
     animation: fadeInUp
     button:
       enable: true
-      label: more details
-      link: contact
+      label: Kontaktieren Sie uns
+      link: kontakt
       animation: zoomIn
   - subtitle: " Programmierung von"
     title: mobilen Applikationen
