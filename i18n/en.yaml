@@ -15,6 +15,8 @@
   translation: Folgen Sie uns auf
 - id: services
   translation: Dienstleistungen
+- id: our_services
+  translation: Unsere Dienstleistungen
 - id: contact_info
   translation: Kontaktinformationen
 - id: subscribe_newsletter
