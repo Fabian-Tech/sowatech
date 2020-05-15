@@ -2,8 +2,7 @@
 bg_image = "/images/service/service-5.jpg"
 bg_image_webp = ""
 description = ""
-draft = true
-icon = ""
+icon = "fa-globe"
 image = "/images/feature/feature.jpg"
 image_webp = ""
 summary = ""
