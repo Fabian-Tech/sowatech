@@ -1,10 +1,10 @@
 +++
-bg_image = ""
+bg_image = "/images/service/service-5.jpg"
 bg_image_webp = ""
 description = ""
 draft = true
 icon = ""
-image = ""
+image = "/images/feature/feature.jpg"
 image_webp = ""
 summary = ""
 title = "Web Applikation"
