@@ -6,7 +6,7 @@ icon = "fa-mobile"
 image = "/images/blog/post-8.jpg"
 image_webp = ""
 summary = ""
-title = "MOBILE ENTWICKLUNGEN"
+title = "Mobile Entwicklungen"
 type = "service"
 
 +++
