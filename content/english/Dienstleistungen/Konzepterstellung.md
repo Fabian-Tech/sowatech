@@ -5,7 +5,7 @@ bg_image_webp: images/backgrounds/page-title.webp
 bg_image: images/backgrounds/page-title.jpg
 image_webp: images/service/service-4.webp
 image: images/service/service-4.jpg
-icon: fa-handshake-o
+icon: fa-tasks
 type: service
 summary: Wir beraten bei technischen Entwürfen, führen Anforderungsanalysen durch
   und erstellen Konzepte und Lasten- und Pflichtenhefte.
