@@ -7,10 +7,9 @@ image_webp: images/service/service-4.webp
 image: images/service/service-4.jpg
 icon: fa-handshake-o
 type: service
-summary: Erfolgreiche Projekte beginnen mit einer guten Konzeption und Projektplanung.
-  sowatech berät bei technischen Entwürfen, führt Anforderungsanalysen durch und erstellt
-  Konzepte, Lastenhefte und Pflichtenhefte, die auch als Grundlage einer Ausschreibung
-  dienen können.
+summary: Sowatech berät bei technischen Entwürfen, führt Anforderungsanalysen durch
+  und erstellt Konzepte, Lastenhefte und Pflichtenhefte, die auch als Grundlage einer
+  Ausschreibung dienen können.
 
 ---
 > "Ein Projekt ist ein einmaliges Vorhaben, das aus einem Satz von abgestimmten, gelenkten Tätigkeiten mit Anfangs- und Endtermin besteht und durchgeführt wird, um unter Berücksichtigung von Zwängen bezüglich Zeit und Ressourcen (zum Beispiel Geld bzw. Kosten) ein Ziel zu erreichen".
