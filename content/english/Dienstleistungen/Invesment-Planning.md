@@ -1,43 +1,30 @@
 ---
-title: "Invesment Planning"
-# meta description
-description: "this is meta description for service page."
-# page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
-# service image
-image_webp: "images/service/service-3.webp"
-image: "images/service/service-3.jpg"
-# service icon
-icon: "fa-briefcase" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-# type
-type: "service"
+title: Beratung und Projektdurchführung
+description: this is meta description for service page.
+bg_image_webp: images/backgrounds/page-title.webp
+bg_image: images/backgrounds/page-title.jpg
+image_webp: images/service/service-3.webp
+image: images/service/service-3.jpg
+icon: fa-briefcase
+type: service
+
 ---
+### Beratung
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+In vielen Fällen ist die Erstellung einer IT-Lösung nur eine Teilaspekt eines Gesamtprojekts oder es bestehen verschiedene Möglichkeiten, ein Gesamt-Projektziel zu erreichen, indem existierende Lösungen, hauseigene Mittel und neu zu erstellende IT-Lösungen miteinander kombiniert werden sollen. sowatech berät und unterstützt die Vorbereitung, Konzeption und Umsetzung eines Projektes.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Projektdurchführung mit SCRUM
 
-### Benifits of service
+sowatech verwendet SCRUM als Vorgehensmodell zur Projektdurchführung
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+SCRUM stellt das Lösen einer Programmieraufgabe in den Vordergrund der Softwareentwicklung und mindert die Formalisierung des Vorgehens. SCRUM nähert sich den Anforderungen des Kunden in wiederholten kleinen Schritten unter Verwendung von Rückkopplungen sowie einer kommunikationsintensiven Herangehensweise zielgerichtet an.
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
+Die Methode berücksichtigt, dass der Kunde die wirklichen Anforderungen an die zu erstellende Software zu Projektbeginn meist noch nicht komplett kennt. Im Laufe eines Projektes ändern sich darüber hinaus nicht selten Prioritäten und Gewichte. Zu Beginn geforderte Funktionen der Software werden möglicherweise in einer anderen Form benötigt oder im Laufe der Zeit sogar komplett hinfällig.
 
-### Business Strategy
+Die konsequente Ausrichtung an SCRUM stellt die Software schneller bereit, und erreicht eine höhere Softwarequalität und Zufriedenheit des Kunden als es mit traditionellen Ansätzen zu erreichen ist. Der Kunde bekommt nach dem Vorgehensmodell SCRUM ein einsatzbereites Produkt, an dessen Herstellung er aktiv teilgenommen hat.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
+**Vorteile**
 
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+* Die Software richtet sich detailliert am Anwender aus, Akzeptanz beim Anwender durch direkte Einbindung
+* Vermeidung von Fehlentwicklungen und Investition von großem Aufwand in Nebenziele
+* Die Software ist den Anforderungen im Unternehmen gewachsen und unterstützt die Arbeitsabläufe optimal und effizient
