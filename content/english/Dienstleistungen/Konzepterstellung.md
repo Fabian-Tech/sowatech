@@ -1,5 +1,5 @@
 ---
-title: ERSTELLUNG VON KONZEPT, LASTENHEFT ODER PFLICHTENHEFT
+title: Erstellung von Konzept, Lastenheft oder Pflichtenheft
 description: this is meta description for service page.
 bg_image_webp: images/backgrounds/page-title.webp
 bg_image: images/backgrounds/page-title.jpg
@@ -9,7 +9,6 @@ icon: fa-handshake-o
 type: service
 
 ---
-
 > "Ein Projekt ist ein einmaliges Vorhaben, das aus einem Satz von abgestimmten, gelenkten Tätigkeiten mit Anfangs- und Endtermin besteht und durchgeführt wird, um unter Berücksichtigung von Zwängen bezüglich Zeit und Ressourcen (zum Beispiel Geld bzw. Kosten) ein Ziel zu erreichen".
 
 Erfolgreiche Projekte beginnen mit einer guten Konzeption und Projektplanung. sowatech berät bei technischen Entwürfen, führt Anforderungsanalysen durch und erstellt Konzepte, Lastenhefte und Pflichtenhefte, die auch als Grundlage einer Ausschreibung dienen können.
