@@ -5,8 +5,8 @@ description = "met desc"
 icon = "fa-mobile"
 image = "/images/blog/post-8.jpg"
 image_webp = ""
-summary = ""
-title = "Mobile Entwicklungen"
+summary = "Wir entwickeln mobile Anwendungen für iPhone, iPad, Android etc. mit geräteunabhängiger Webechnologie."
+title = "Mobile Apps"
 type = "service"
 
 +++
