@@ -4,7 +4,7 @@
 {{ with $data.homepage.testimonial }}
 <section class="section bg-gray bg-dots">
   <div class="container">
-    <div class="row test">
+    <div class="row shadow-fix">
       <div class="col-12 text-center">
         <div class="section-title-border border-center"></div>
         <h4 class="section-title-sm">{{ .subtitle | markdownify }}</h4>
@@ -14,7 +14,7 @@
         <div class="testimonial-slider">
           {{ range .testimonial_item }}
           {{ "<!-- slider-item -->" | safeHTML }}
-          <div class="text-center test2">
+          <div class="text-center">
             {{ if (.hasalphachannel)}}
             <img class="img-fluid mb-5 drop-shadow d-inline-block" src="{{ .client_image | absURL }}" alt="{{ .name }}">
             {{ else}}
