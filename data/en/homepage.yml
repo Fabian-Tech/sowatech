@@ -83,8 +83,8 @@ about:
   image: images/about/about-us.png
   button:
     enable: true;
-    label: more service
-    link: service
+    label: Unsere Dienstleistungen
+    link: dienstleistungen
 funfacts:
   enable: true
   funfacts_item:
