@@ -2,7 +2,7 @@
 bg_image = "/images/service/service-5.webp"
 bg_image_webp = ""
 description = "met desc"
-icon = ""
+icon = "fa-mobile"
 image = "/images/blog/post-8.jpg"
 image_webp = ""
 summary = ""
