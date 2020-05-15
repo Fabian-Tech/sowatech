@@ -1,43 +1,30 @@
 ---
-title: "Business Consulting"
-# meta description
-description: "this is meta description for service page."
-# page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
-# service image
-image_webp: "images/service/service-2.webp"
-image: "images/service/service-2.jpg"
-# service icon
-icon: "fa-bar-chart" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-# type
-type: "service"
+title: Softwareentwicklung mit Microsoft .net Technologie
+description: this is meta description for service page.
+bg_image_webp: images/backgrounds/page-title.webp
+bg_image: images/backgrounds/page-title.jpg
+image_webp: images/service/service-2.webp
+image: images/service/service-2.jpg
+icon: fa-bar-chart
+type: service
+
 ---
+Windows-basierte Anwendungen haben gegenüber plattformunabhängigen Anwendungen den Vorteil, dass Sie weitestgehenden Zugriff auf Betriebssystemdienste haben und von anderen Vorteilen der definierten Computerumgebung des Benutzers profitieren können. Beispielsweise ist es möglich, auf andere lokal installierte Programme wie Excel, Outlook oder Skype zuzugreifen oder lokal angeschlossene Geräte zu nutzen.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+Microsoft Visual Studio bietet mehrere Möglichkeiten zum Entwickeln Windows-basierter Anwendungen, die lokal auf den Benutzercomputern ausgeführt werden.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+sowatech hat sich vor vielen Jahren auf die Programmierung mit dem .NET Framework spezialisiert und bietet die professionelle Softwareentwicklung in der gesamten Palette an .Net Technologien an.
 
-### Benifits of service
+Das .NET Framework enthält zahlreiche Klassen für die Programmierung anspruchsvoller Anwendungen.Windows-basierte Anwendungen lassen sich mit jeder Programmiersprache erstellen, die mit .NET Framework (Visual Basic, C#, C++ und viele andere) sowie .NET Framework-Debugtools kompatibel ist. sowatech verfügt über langjährige Erfahrung in C# und VisualBasic.net. Darüber hinaus sind uns auch die Programiersprachen Delphi und C++ bestens vertraut.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+* **Softwareentwicklung .net mit WinForms**
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
+  sowatech verfügt über umfangreiche Erfahrung in der Entwicklung von Benutzeroberflächen mithilfe des klassischen Präsentationssystem Windows Form, sowie der Programmierung von Windows-Dienstanwendungen oder Windows Win32-basierten Anwendungen.
+* **Softwareentwicklung in .net mit WPF**
 
-### Business Strategy
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
+  Seit 2009 steht mit der Windows Presentation Foundation (WPF) ein Präsentationssystem der nächsten Generation zum Erstellen von Windows-Clientanwendungen mit einem visuell herausragenden Benutzererlebnis zur Verfügung.
 
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
+* **Softwareentwicklung in Silverlight**
 
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+  Silverlight ist eine plattformunabhängige Erweiterung für Browser, die ein WPF-ähnliches Framework für das Web zur Verfügung stellt und bildet die Basis echter Rich Internet Applications (RIAs). Silverlight eine ideale Plattform für komplexe Geschäftsanwendungen im Internet und Intranet
