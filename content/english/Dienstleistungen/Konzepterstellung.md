@@ -7,8 +7,8 @@ image_webp: images/service/service-4.webp
 image: images/service/service-4.jpg
 icon: fa-handshake-o
 type: service
-summary: Sowatech berät bei technischen Entwürfen, führt Anforderungsanalysen durch
-  und erstellt Konzepte, Lastenhefte und Pflichtenhefte, die auch als Grundlage einer
+summary: Wir beraten bei technischen Entwürfen, führen Anforderungsanalysen durch
+  und erstellen Konzepte, Lasten- und Pflichtenhefte, die auch als Grundlage einer
   Ausschreibung dienen können.
 
 ---
