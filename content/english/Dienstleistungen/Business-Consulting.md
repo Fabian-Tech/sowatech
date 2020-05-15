@@ -7,6 +7,9 @@ image_webp: images/service/service-2.webp
 image: images/service/service-2.jpg
 icon: fa-desktop
 type: service
+summary: Wir haben uns auf die Programmierung mit dem .NET Framework spezialisiert
+  und bieten professionelle Softwareentwicklung in der gesamten Palette an .Net Technologien
+  an.
 
 ---
 Windows-basierte Anwendungen haben gegenüber plattformunabhängigen Anwendungen den Vorteil, dass Sie weitestgehenden Zugriff auf Betriebssystemdienste haben und von anderen Vorteilen der definierten Computerumgebung des Benutzers profitieren können. Beispielsweise ist es möglich, auf andere lokal installierte Programme wie Excel, Outlook oder Skype zuzugreifen oder lokal angeschlossene Geräte zu nutzen.
