@@ -33,3 +33,5 @@ fields:
   name: type
   label: type
   default: service
+pages:
+- content/english/Dienstleistungen/mobile-entwicklungen.md
