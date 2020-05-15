@@ -76,7 +76,7 @@ funfacts:
   enable: true
   funfacts_item:
   - name: Abgeschlossene Projekte
-    count: "50"
+    count: "200"
     icon: fa-bullseye
   - name: jährige Erfahrung
     count: "20"
