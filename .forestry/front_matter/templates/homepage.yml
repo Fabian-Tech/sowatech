@@ -249,6 +249,10 @@ fields:
     - type: textarea
       name: content
       label: content
+    - name: hasalphachannel
+      type: boolean
+      label: hasAlphaChannel
+      description: Enable if the image has an alpha channel.
 - type: field_group
   name: cta
   label: cta
