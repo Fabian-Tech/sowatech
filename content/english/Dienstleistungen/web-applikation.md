@@ -12,7 +12,6 @@ type = "service"
 +++
 Neben der klassischen Webprogrammierung von Internetauftritten und eCommerce Lösungen werden zunehmend auch Softwareentwicklungen von Geschäftsanwendungen browserbasiert umgesetzt.
 
-Die Realisierung von browserbasierten Anwendungen ist prinzipiell auf zwei Arten möglich:  
 **Programmierung mit klassischen Webtechnologien**
 
 Die Programmierung mit Webtechnologien wie HTML, CSS, JavaScript und serverseitigen Sprachen wie PHP oder ASP.net. Im Vergleich zu den Desktop Software Varianten leidet bei diesem Ansatz manchmal die Usability oder Schnelligkeit, da die Ausgabe auf die technischen Beschränkungen des Browsers angewiesen ist. Nur aufwendige JavaScripts ermöglichen in der browserbasierten oder webbasierten Variante Funktionen wie Drag and Drop oder die individuelle Anordnung von Fenstern und Funktionen.
