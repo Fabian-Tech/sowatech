@@ -14,3 +14,6 @@ fields:
 - type: file
   name: bg_image
   label: bg_image
+pages:
+- content/english/Impressum/_index.md
+- content/english/Datenschutz/_index.md
