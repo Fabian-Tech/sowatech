@@ -1,43 +1,27 @@
 ---
-title: "Market Analysis"
-# meta description
-description: "this is meta description for service page."
-# page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
-# service image
-image_webp: "images/service/service-4.webp"
-image: "images/service/service-4.jpg"
-# service icon
-icon: "fa-handshake-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-# type
-type: "service"
+title: ERSTELLUNG VON KONZEPT, LASTENHEFT ODER PFLICHTENHEFT
+description: this is meta description for service page.
+bg_image_webp: images/backgrounds/page-title.webp
+bg_image: images/backgrounds/page-title.jpg
+image_webp: images/service/service-4.webp
+image: images/service/service-4.jpg
+icon: fa-handshake-o
+type: service
+
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+> "Ein Projekt ist ein einmaliges Vorhaben, das aus einem Satz von abgestimmten, gelenkten Tätigkeiten mit Anfangs- und Endtermin besteht und durchgeführt wird, um unter Berücksichtigung von Zwängen bezüglich Zeit und Ressourcen (zum Beispiel Geld bzw. Kosten) ein Ziel zu erreichen".
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+Erfolgreiche Projekte beginnen mit einer guten Konzeption und Projektplanung. sowatech berät bei technischen Entwürfen, führt Anforderungsanalysen durch und erstellt Konzepte, Lastenhefte und Pflichtenhefte, die auch als Grundlage einer Ausschreibung dienen können.
 
-### Benifits of service
+## Erstellung eines Fachkonzepts
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+Ein Fachkonzept beschreibt die funktionalen Anforderungen an eine Software und zeigt deren anwendungsbezogenen Nutzen auf. Es beschreibt die Funktionalität primär aus Sicht des Anwenders und Systemeigentümers. Es enthält Aussagen über Informationen, Regeln, Funktionen und grundlegenden Verarbeitungsschritte, die das zukünftige System enthalten muss. Es können auch nicht funktionale Anforderungen wie Gebrauchstauglichkeit, Bedienbarkeit, Nachvollziehbarkeit der Verarbeitungsschritte und Testbarkeit, Berechtigungskonzept, Verfügbarkeit von Berichten und Listen gemacht werden.
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
+## Erstellung von Lastenheft und Pflichtenheft
 
-### Business Strategy
+Das Lastenheft (teils auch Anforderungsspezifikation, Anforderungskatalog, Produktskizze, Kundenspezifikation oder Requirements Specification) beschreibt die Gesamtheit der Forderungen des Auftraggebers an die Lieferungen und Leistungen eines Auftragnehmers.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
+Die Anforderungen in einem Lastenheft werden durch ihre Formulierung so allgemein wie möglich und so einschränkend wie nötig formuliert. Hierdurch hat der Auftragnehmer die Möglichkeit optimale Lösungen zu erarbeiten, ohne durch zu konkrete Anforderungen in seiner Lösungskompetenz eingeschränkt zu sein. Im Rahmen eines Werkvertrages oder Werkliefervertrages und der dazu gehörenden formellen Abnahme beschreibt das Lastenheft präzise die nachprüfbaren Leistungen und Lieferungen.
 
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+Das Lastenheft kann in einer Ausschreibung verwendet und an mehrere mögliche Auftragnehmer verschickt werden. Mögliche Auftragnehmer erstellen auf Grundlage des Lastenheftes ein Pflichtenheft, welches in konkreterer Form beschreibt, wie der Auftragnehmer die Anforderungen im Lastenheft zu lösen gedenkt. Der Auftraggeber wählt dann aus den Vorschlägen den für ihn geeignetsten aus.
