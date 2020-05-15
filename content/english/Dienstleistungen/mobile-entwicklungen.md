@@ -20,17 +20,17 @@ Der große Vorteil: Es muss keine individuelle App für verschiedene Geräte ent
 
 Reine Webapplikationen haben jedoch den Nachteil, dass sie keinen oder nur sehr begrenzten Zugriff auf Netzwerk, Kamera, Lagesensor des Smartphones haben.
 
-sowatech schließt diese Lücke mit einem Framework zur "Hybriden App-Entwicklung", auch Cross-Plattform-Entwicklung genannt. Diese zeichnet sich dadurch aus, dass eine Web-App mit Web-Technologien entwickelt wird. Je nach gewünschter Zielplattform wird die Web-App anschließend in eine entsprechende native App transformiert. Da die entstandene Anwendung nativ ist, kann sie in einem App-Store vertrieben werden und muss für die Ausführung auf dem Smartphone installiert sein. 
+sowatech schließt diese Lücke mit einem Framework zur "Hybriden App-Entwicklung", auch Cross-Plattform-Entwicklung genannt. Diese zeichnet sich dadurch aus, dass eine Web-App mit Web-Technologien entwickelt wird. Je nach gewünschter Zielplattform wird die Web-App anschließend in eine entsprechende native App transformiert. Da die entstandene Anwendung nativ ist, kann sie in einem App-Store vertrieben werden und muss für die Ausführung auf dem Smartphone installiert sein.
 
 # HYBRIDE MOBILE APPS MIT IONIC
 
-![Ionic Framework](../../../../portals/sowatech/Images/ionic.png)sowatech entwickelt mobile Anwendungen mit Web-Technologie (HTML5, Angular JS/Typescript). Der große Vorteil: Es muss keine individuelle App für verschiedene Geräte entwickelt, bereitgestellt und gewartet werden. Mit Hilfe von Cordova wird aus der als Webapplikation erstellten App eine native App für das Zielgerät generiert, welche über die Geräte-Stores vertrieben werden kann.
+sowatech entwickelt mobile Anwendungen mit Web-Technologie (HTML5, Angular JS/Typescript). Der große Vorteil: Es muss keine individuelle App für verschiedene Geräte entwickelt, bereitgestellt und gewartet werden. Mit Hilfe von Cordova wird aus der als Webapplikation erstellten App eine native App für das Zielgerät generiert, welche über die Geräte-Stores vertrieben werden kann.
 
 ## Entwicklung nativer mobiler Webapplikationen für iPhone, iPad, Android, und Winphone mit dem Ionic Framework
 
 Sowatech verwendet das auf Angular aufbauende Framework "Ionic" für Smartphones und Tablets (iPhone, iPad, Android, Winphone).
 
-* [Ionic**Ionic**](http://www.ionicframework.com/)
+* [**Ionic**](http://www.ionicframework.com/)
 
   Touch-optimiertes Framework für mobile Applikationen auf Basis von AngularJS und Cordova.
 
