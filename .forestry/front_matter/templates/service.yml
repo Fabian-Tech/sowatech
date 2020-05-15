@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: title
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 - type: text
   name: description
   label: description
@@ -34,4 +43,5 @@ fields:
   label: type
   default: service
 pages:
+- content/english/Dienstleistungen/mobile-entwicklungen.md
 - content/english/Dienstleistungen/mobile-entwicklungen.md
