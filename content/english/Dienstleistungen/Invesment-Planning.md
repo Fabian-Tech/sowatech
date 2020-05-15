@@ -7,6 +7,8 @@ image_webp: images/service/service-3.webp
 image: images/service/service-3.jpg
 icon: fa-briefcase
 type: service
+summary: Wir beraten und unterstützen die Vorbereitung, Konzeption und Umsetzung Ihrer
+  Projekte.
 
 ---
 ### Beratung
