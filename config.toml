@@ -22,11 +22,11 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "Impressum"
+URL = "impressum"
 name = "Impressum"
 weight = 1
 [[menu.footer]]
-URL = "Datenschutz"
+URL = "datenschutz"
 name = "Datenschutz"
 weight = 2
 [[menu.main]]
