@@ -137,7 +137,7 @@ testimonial:
     name: Kobra Nahverkehrsservice GmbH
     designation: Auswertungstool für Fahrplandaten
     content: Sehr gutes Preis-/Leistungsverhältnis.
-    hasalphachannel: false
+    hasalphachannel: true
   - client_image: images/testimonial/client-2.jpg
     name: Claudia Drecksträter
     designation: dnn DotNetNuke
