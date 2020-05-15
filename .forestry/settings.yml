@@ -66,6 +66,7 @@ sections:
   match: "**/*"
   templates:
   - new-page
+  - tos-privacy-policy
 - type: heading
   label: Data
 - type: directory
