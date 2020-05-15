@@ -1,10 +1,9 @@
 +++
-bg_image = ""
+bg_image = "/images/service/service-5.webp"
 bg_image_webp = ""
 description = "met desc"
-draft = true
 icon = ""
-image = ""
+image = "/images/blog/post-8.jpg"
 image_webp = ""
 title = "MOBILE ENTWICKLUNGEN"
 type = "service"
