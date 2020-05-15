@@ -22,7 +22,7 @@ Peter Kaiser, Holger Thiemann
 
 ##### Kontakt
 
-Tel: 0049 (261) 29185-0  
-Fax: 0049 (261) 29185-29  
+Tel: +49 (261) 29185-0  
+Fax: +49 (261) 29185-29  
 E-Mail: info@sowatech.de  
 URL: www.sowatech.de
