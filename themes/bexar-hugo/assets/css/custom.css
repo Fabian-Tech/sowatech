@@ -2,6 +2,10 @@
     filter: drop-shadow(0 15px 30px rgba(8,18,109,.1));
 }
 
+.position-button-service{
+    bottom: 10px;
+    left: 20px;
+}
 
 /*.shadow-fix>div>div>div{
     overflow: visible;
