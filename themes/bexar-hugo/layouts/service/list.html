@@ -19,7 +19,7 @@
     <div class="row">
       {{ range .Data.Pages }}
       {{ "<!-- service-item -->" | safeHTML }}
-      <div class="col-lg-4 col-sm-6 mb-4">
+      <div class="col-lg-4 col-sm-6 mb-4 height d-flex">
         {{ .Render "service" }}
       </div>
       {{ end }}
