@@ -10,6 +10,9 @@
 @media only screen and (max-width:576px){
 .hero-slider h1{
     font-size:14vw
+    /* evtl. noch extra klassen für machen? */
+h2{
+    font-size:10vw
 }
 }
 
