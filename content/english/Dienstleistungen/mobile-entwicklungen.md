@@ -5,6 +5,7 @@ description = "met desc"
 icon = ""
 image = "/images/blog/post-8.jpg"
 image_webp = ""
+summary = ""
 title = "MOBILE ENTWICKLUNGEN"
 type = "service"
 
@@ -22,11 +23,11 @@ Reine Webapplikationen haben jedoch den Nachteil, dass sie keinen oder nur sehr 
 
 sowatech schließt diese Lücke mit einem Framework zur "Hybriden App-Entwicklung", auch Cross-Plattform-Entwicklung genannt. Diese zeichnet sich dadurch aus, dass eine Web-App mit Web-Technologien entwickelt wird. Je nach gewünschter Zielplattform wird die Web-App anschließend in eine entsprechende native App transformiert. Da die entstandene Anwendung nativ ist, kann sie in einem App-Store vertrieben werden und muss für die Ausführung auf dem Smartphone installiert sein.
 
-# HYBRIDE MOBILE APPS MIT IONIC
+## HYBRIDE MOBILE APPS MIT IONIC
 
 sowatech entwickelt mobile Anwendungen mit Web-Technologie (HTML5, Angular JS/Typescript). Der große Vorteil: Es muss keine individuelle App für verschiedene Geräte entwickelt, bereitgestellt und gewartet werden. Mit Hilfe von Cordova wird aus der als Webapplikation erstellten App eine native App für das Zielgerät generiert, welche über die Geräte-Stores vertrieben werden kann.
 
-## Entwicklung nativer mobiler Webapplikationen für iPhone, iPad, Android, und Winphone mit dem Ionic Framework
+### Entwicklung nativer mobiler Webapplikationen für iPhone, iPad, Android, und Winphone mit dem Ionic Framework
 
 Sowatech verwendet das auf Angular aufbauende Framework "Ionic" für Smartphones und Tablets (iPhone, iPad, Android, Winphone).
 
