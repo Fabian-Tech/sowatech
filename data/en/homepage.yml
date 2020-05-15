@@ -137,11 +137,13 @@ testimonial:
     name: Kobra Nahverkehrsservice GmbH
     designation: Auswertungstool für Fahrplandaten
     content: Sehr gutes Preis-/Leistungsverhältnis.
+    hasalphachannel: false
   - client_image: images/testimonial/client-2.jpg
     name: Claudia Drecksträter
     designation: dnn DotNetNuke
     content: Super Service, Rasche und zuverlässige Bearbeitung! Sehr netter Kontakt!
       Immer gern wieder.
+    hasalphachannel: false
   - client_image: "/images/testimonial/AFCVNRW.gif"
     name: American Football Verband NRW
     designation: Sportverwaltungssoftware
@@ -149,6 +151,7 @@ testimonial:
       worden. Der verantwortliche Programmierer konnte sich schnell auf unser Fachfremdes
       Problem einstellen. Wir werden den weiteren Ausbau der Software ebenfalls mit
       Sowatech weiterführen.
+    hasalphachannel: true
 cta:
   enable: false
   title: Bexar give the smart solution for your business
