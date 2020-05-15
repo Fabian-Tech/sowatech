@@ -17,9 +17,8 @@ slider:
       animation: zoomIn
   - subtitle: " Programmierung von"
     title: mobilen Applikationen
-    content: |-
-      Programmierung nativer mobiler Apps für Android, iOs und WinPhone mit Cordova
-      Hybride Entwicklung mit AngularJS und Ionic
+    content: Programmierung von PWA, hybriden und nativen mobilen Apps für Android,
+      iOs mit Angular, Ionic und NativeScript
     bg_image_webp: images/slider/banner-2.webp
     bg_image: images/slider/banner-2.jpg
     animation: fadeInDown
