@@ -7,7 +7,7 @@ icon = ""
 image = "/images/feature/feature.jpg"
 image_webp = ""
 summary = ""
-title = "Web Applikation"
+title = "Web Applikationen"
 type = "service"
 
 +++
