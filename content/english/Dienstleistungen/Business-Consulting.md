@@ -5,7 +5,7 @@ bg_image_webp: images/backgrounds/page-title.webp
 bg_image: images/backgrounds/page-title.jpg
 image_webp: images/service/service-2.webp
 image: images/service/service-2.jpg
-icon: fa-bar-chart
+icon: fa-desktop
 type: service
 
 ---
