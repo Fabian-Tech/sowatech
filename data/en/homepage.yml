@@ -61,7 +61,7 @@ banner_feature:
   feature_item:
   - name: Programmierung von Web-Applikationen
     icon: fa-globe
-    content: "Moderne Webanwendungen mit Angular2 und HTML5  \nBackendlösungen mit
+    content: "Moderne Webanwendungen mit Angular und HTML5  \nBackendlösungen mit
       Microsoft Web API, ASP MVC, ASP.net"
   - name: Programmierung von mobilen Applikationen
     icon: fa-mobile
