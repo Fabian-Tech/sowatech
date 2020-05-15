@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ partial "page-title.html" . }}
+
+{{ "<!-- service items -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="section-title-border border-center"></div>
+        <h2 class="section-title">{{ "Datenschutzerklärung" | markdownify }}</h2>
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- /service items -->" | safeHTML }}
+
+{{ end }}
