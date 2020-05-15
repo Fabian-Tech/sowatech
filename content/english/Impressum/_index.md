@@ -5,6 +5,24 @@ bg_image_webp: images/backgrounds/page-title.webp
 bg_image: images/backgrounds/page-title.jpg
 
 ---
+##### Betreiber der Website
 
-Datenschutzerklärung
-Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der sowatech Softwaretechnik GmbH. 
+sowatech Softwaretechnik GmbH  
+Im Teichert 110a  
+56076 Koblenz
+
+Registergericht: Amtsgericht Koblenz, Registernummer:HRB 6510  
+Umsatzsteuer-ID: DE 283715809
+
+Verantwortlich für den Webauftritt: Peter Kaiser
+
+##### Vertretungsberechtigte Geschäftsführer
+
+Peter Kaiser, Holger Thiemann
+
+##### Kontakt
+
+Tel: 0049 (261) 29185-0  
+Fax: 0049 (261) 29185-29  
+E-Mail: info@sowatech.de  
+URL: www.sowatech.de
