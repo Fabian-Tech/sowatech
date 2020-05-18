@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/service/service-5.jpg"
 bg_image_webp = ""
-description = ""
+description = "Von unserem Standort in Koblenz bietet Sowatech individuelle Softwareentwicklung und Datenbankentwicklung von Web-, Mobil- und Desktop-Applikationen."
 icon = "fa-globe"
 image = "/images/feature/feature.jpg"
 image_webp = ""
