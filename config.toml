@@ -9,7 +9,7 @@ title = "Individuelle Softwareentwicklung von Web, Mobil und Desktop-Applikation
 contentDir = "content/english"
 copyright = "sowatech Softwaretechnik GmbH 2020"
 footer_content = "Kontaktieren Sie uns für ein unverbindliches Erstgespräch, um Kosten und Zeitaufwand Ihres Entwicklungsvorhabens zu klären."
-home = "Home"
+home = "Startseite"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -45,7 +45,7 @@ weight = 7
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Im Teichert 110A, 56076 Koblenz"
-author = "Themefisher"
+author = "Sowatech"
 contact_form_action = "#"
 description = "This is meta description"
 email = "info@sowatech.de"
@@ -56,6 +56,8 @@ mobile = "+49 261 291850"
 quick_contact = false
 search = false
 top_header = true
+[params.contact]
+enable = false
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -104,5 +106,3 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 URL = "https://www.facebook.com/sowatech.de/"
 icon = "fa-facebook"
-[params.contact]
-enable = false
